@@ -1,0 +1,10 @@
+debug/main.o
+debug/mainwindow.o
+debug/waycreate.o
+debug/autocreate.o
+debug/handcreate.o
+debug/qrc_res.o
+debug/moc_mainwindow.o
+debug/moc_waycreate.o
+debug/moc_autocreate.o
+debug/moc_handcreate.o

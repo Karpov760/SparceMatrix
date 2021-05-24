@@ -1,0 +1,10 @@
+release/main.o
+release/mainwindow.o
+release/waycreate.o
+release/autocreate.o
+release/handcreate.o
+release/qrc_res.o
+release/moc_mainwindow.o
+release/moc_waycreate.o
+release/moc_autocreate.o
+release/moc_handcreate.o
